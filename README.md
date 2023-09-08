@@ -13,7 +13,7 @@ On the saleor-platform repository page, on the top right hand corner option 'for
 On a linux environment, create a new directory. Open a terminal in this directory. 
 To clone the repository, run the following command from within the directory: 
 
-git clone git clone https://github.com/<yourusername>/<titleofrepository>.git
+git clone git clone https://github.com/*yourusername*/*titleofrepository*.git
 
 For this specific example, the command was used as follows:
 
