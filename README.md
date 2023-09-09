@@ -1,8 +1,8 @@
-ISEC6000-Assignment1-Task2
+#ISEC6000-Assignment1-Task2
 
-Running a Saleor Stack with Sample Data
+#Running a Saleor Stack with Sample Data
 
-**Forking the Saloer Repository**
+##**Forking the Saloer Repository**
 
 On the saleor-platform repository page, on the top right hand corner option 'fork' to open the fork menu. Then click on 'Create a fork' and fill in the required details. 
 
