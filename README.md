@@ -1,14 +1,14 @@
-#ISEC6000-Assignment1-Task2
+# ISEC6000-Assignment1-Task2
 
-#Running a Saleor Stack with Sample Data
+# Running a Saleor Stack with Sample Data
 
-##**Forking the Saloer Repository**
+## **Forking the Saloer Repository**
 
 On the saleor-platform repository page, on the top right hand corner option 'fork' to open the fork menu. Then click on 'Create a fork' and fill in the required details. 
 
 ![Step 1](https://github.com/liamsutton601/isec6000-assignment1-task2/assets/130027096/b1425164-0926-4d52-88a5-1cb972d630f3) ![Step 2](https://github.com/liamsutton601/isec6000-assignment1-task2/assets/130027096/41a6007b-6362-40dd-81f3-602a7185cd9e)
 
-**Cloning the Repository**
+## **Cloning the Repository**
 
 On a linux environment, create a new directory. Open a terminal in this directory. 
 To clone the repository, run the following command from within the directory: 
@@ -25,7 +25,7 @@ The command has the following output when run:
 
 ![Step 4](https://github.com/liamsutton601/isec6000-assignment1-task2/assets/130027096/bd0d619d-8ea6-4dfa-83d1-6e9d4f4c5fd6)
 
-**Running The Saleor-Platform**
+## **Running The Saleor-Platform**
 
 Change into the cloned directory:
 
@@ -61,7 +61,7 @@ docker-compose up
 
 ![Step 11](https://github.com/liamsutton601/isec6000-assignment1-task2/assets/130027096/b003b07f-ab75-4690-ad94-5242b27ba059)
 
-**Confirming The Application Is Running**
+## **Confirming The Application Is Running**
 
 The respective applications run on the following ports:
 
@@ -92,7 +92,7 @@ The links for the applications are as follows, with pictures as proof of them wo
 ![Step 15](https://github.com/liamsutton601/isec6000-assignment1-task2/assets/130027096/2743df74-31b3-44a4-be14-05e28edaef11)
   
 
-**Changing The Compose File For Different Ports**
+## **Changing The Compose File For Different Ports**
 
 If the stack is running, you must close with the following command:
 
@@ -129,7 +129,7 @@ To This:
 ![Step 20](https://github.com/liamsutton601/isec6000-assignment1-task2/assets/130027096/80b5b51c-73bb-4df2-8f59-a269c7e2b766)
 
 
-**Confirming The Changes Work**
+## **Confirming The Changes Work**
 
 Restart the saleor stack with the command:
 
